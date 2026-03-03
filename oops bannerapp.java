@@ -1,3 +1,4 @@
+ features/UC5-inclined-array
 public class OOPSArrayInit {
 
     public static void main(String[] args) {
@@ -20,6 +21,26 @@ public class OOPSArrayInit {
         };
 
         // Loop to print banner
+
+public class OOPSArray{
+    public static void main(String[] args) {
+
+        String[] lines = {
+            " ***     ***     *****   ***** ",
+			
+            "*   *   *   *    *    *  *     ",
+			
+            "*   *   *   *    *    *  *     ",
+			
+            "*   *   *   *    *****   ***** ",
+			
+            "*   *   *   *    *           * ",
+			
+            "*   *   *   *    *           * ",
+			
+            " ***     ***     *       ***** "
+        };
+ main
         for (String line : lines) {
             System.out.println(line);
         }
